@@ -12,8 +12,10 @@ I have a passion for continuous learning, especially in **quantum computing**, w
 > 🔒 Some of my work is under private development, but you can check out my public projects [here](https://github.com/LilAntonioC).
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/antonio.contrerasortiz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antonio-contreras-ortiz-0661561a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jose.contreras@itj.com)
-[![Visit my Hugging Face Profile](https://img.shields.io/badge/Visit%20my%20Hugging%20Face%20Profile-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/LaLegumbreArtificial)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/antonio.contrerasortiz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-contreras-ortiz-0661561a6)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jose.contreras@itj.com)
+[![Hugging Face](https://img.shields.io/badge/Visit%20my%20Hugging%20Face%20Profile-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/LaLegumbreArtificial)
 
 
 # 💻 Tech Stack:
