@@ -13,9 +13,10 @@ I have a passion for continuous learning, especially in **quantum computing**, w
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/antonio.contrerasortiz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonio-contreras-ortiz-0661561a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonio-contreras-ortiz-0661561a6)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jose.contreras@itj.com)
-[![Hugging Face](https://img.shields.io/badge/Visit%20my%20Hugging%20Face%20Profile-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/LaLegumbreArtificial)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21F&color=FFD21F)](https://huggingface.co/LaLegumbreArtificial)
+
 
 
 
