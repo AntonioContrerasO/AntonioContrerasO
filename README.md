@@ -8,9 +8,6 @@ I have a passion for continuous learning, especially in **quantum computing**, w
 
 🧠 I'm also a teacher and workshop facilitator, passionate about sharing knowledge and driving innovation at the intersection of science and technology.
 
-> 🚀 This repository is part of a larger set of ongoing projects.  
-> 🔒 Some of my work is under private development, but you can check out my public projects [here](https://github.com/LilAntonioC).
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/antonio.contrerasortiz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/antonio-contreras-ortiz-0661561a6)
